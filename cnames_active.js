@@ -1887,6 +1887,7 @@ var cnames_active = {
   "lume.shiraha": "importantimport.github.io/lume_theme_shiraha", // noCF
   "lumi": "furioustsunami.github.io/lumijs",
   "lumpia": "lumpiajs.netlify.app",
+  "luxurtour": "luxurtour.github.io/luxurtour",
   "lunisolar": "waterbeside.github.io/lunisolar-docs",
   "lunox": "kodepandai.github.io/lunox",
   "luzc": "lucianing.github.io/notes",
